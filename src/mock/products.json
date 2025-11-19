@@ -1,0 +1,7 @@
+[
+  { "id": 1, "sku": "SKU001", "name": "Blue T-Shirt", "qty_on_hand": 120, "reorder_point": 50 },
+  { "id": 2, "sku": "SKU002", "name": "Red T-Shirt", "qty_on_hand": 30, "reorder_point": 40 },
+  { "id": 3, "sku": "SKU003", "name": "Jeans", "qty_on_hand": 60, "reorder_point": 30 },
+  { "id": 4, "sku": "SKU004", "name": "Sneakers", "qty_on_hand": 15, "reorder_point": 20 },
+  { "id": 5, "sku": "SKU005", "name": "Socks Pack", "qty_on_hand": 300, "reorder_point": 100 }
+]
